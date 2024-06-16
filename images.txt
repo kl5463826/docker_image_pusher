@@ -1,1 +1,2 @@
 amilys/embyserver:beta
+80x86/filebrowser:2.10.3-amd64 
